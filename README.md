@@ -9,7 +9,10 @@ This project is part of the course curriculum of the CS441 - Cloud Computing obj
 
 Cloud computing is the leading technology for delivery of reliable, secure, fault-tolerant, sustainable, and scalable computational services. For assurance of such characteristics in cloud systems under development, it is required timely, repeatable, and controllable methodologies for evaluation of new cloud applications and policies, before actual development of cloud products.
 
-In this project we aim to analyze and build various cloud architectures with multiple datacenters (according to availability region) , the network they use to connect with each other, each of the datacenter having multiple hosts, host network topology, build and allocation of VMs to this hosts, Cloudlet scheduling policies, Dynamic load balancing algorithm and finally the costs associated with execution of two main types of jobs (map reduce and webservice) on this cloud infrastructure. 
+In this project we aim to analyze and build various cloud architectures with multiple datacenters (according to availability region). Considering the network they use to connect, with each datacenter having multiple hosts. Each host having its own build and allocation policies of VMs.
+Each VM houses Cloudlets with custom scheduling policies.
+The cloudletes/application are scheduled by the various dynamic load balancing algorithms.
+ Finally analysing the costs associated with execution of two main types of jobs (map reduce and webservice) on this cloud infrastructure. 
 
 
 ### Instructions
