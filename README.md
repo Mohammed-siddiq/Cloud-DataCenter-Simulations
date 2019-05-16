@@ -11,12 +11,6 @@ Cloud computing is the leading technology for delivery of reliable, secure, faul
 
 In this project we aim to analyze and build various cloud architectures with multiple datacenters (according to availability region) , the network they use to connect with each other, each of the datacenter having multiple hosts, host network topology, build and allocation of VMs to this hosts, Cloudlet scheduling policies, Dynamic load balancing algorithm and finally the costs associated with execution of two main types of jobs (map reduce and webservice) on this cloud infrastructure. 
 
-### Team members (in alphabetical order)
-
-- Manoj Prabhakar Nallabothula (mnalla2@uic.edu)
-- Mayank K Rastogi (mrasto3@uic.edu)
-- Mohammed Siddiq (msiddi56@uic.edu)
-- Saikrishna Vanamala (svanam2@uic.edu)
 
 ### Instructions
 
